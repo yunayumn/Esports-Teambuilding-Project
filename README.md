@@ -1,6 +1,7 @@
 # Professional Teambuilding Project
 
 **Data Analyst:** Yuna (Team Manager)
+
 **Client/Sponsor:** FINIX E-sports ID
 
 ## Purpose: 
