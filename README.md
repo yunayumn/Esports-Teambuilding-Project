@@ -1,11 +1,7 @@
 # Professional Teambuilding Project
 
-**Data Analyst:** Yuna (Team Manager)
-
-**Client/Sponsor:** FINIX E-sports ID
-
 ## Purpose: 
-Following the disbandment of FINIX Esports’ main roster, the organization’s management is now focused on assembling a new primary team. The objective is to recruit five exceptional players identified during the 2024 VCT Challengers Tournament, ensuring each core role—duelist, controller, initiator, sentinel, and flex—is effectively filled. Additionally, one of the selected players will be designated as the in-game leader (IGL). This newly formed roster will represent FINIX Esports in the upcoming 2025 VCT Challengers Tournament.
+Following the disbandment of an esports organization's main roster, the org's management division is now focused on assembling a new primary team. The objective is to recruit five exceptional players identified during the 2024 VCT Challengers Tournament, ensuring each core role—duelist, controller, initiator, sentinel, and flex—is effectively filled. Additionally, one of the selected players will be designated as the in-game leader (IGL). This newly formed roster will represent FINIX Esports in the upcoming 2025 VCT Challengers Tournament.
 
 ## Scope / Major Project Activities:
 | **Activity**                                     | **Description**                                                                                                                          |
