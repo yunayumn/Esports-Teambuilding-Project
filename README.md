@@ -35,7 +35,7 @@ Following the disbandment of an esports organization's main roster, the organiza
 | _Team performance report_      | _15 Mar 2025_            | _Continuous reporting and monitoring of how the team is performing so far_ |
 
 **Estimated date for completion:**
-# March 15th, 2025
+## March 15th, 2025
 
 # Data Analysis Project Results
 
